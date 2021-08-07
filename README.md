@@ -21,3 +21,7 @@ seus comentários fixos, ou seja, aparece o seu nome nos seus comentários.
   
 • Like na foto: se o usuário clicar 2 vezes na foto ele também poderá curtir a foto, ou seja,
 o coração ficará vermelho.
+
+
+  
+<img  src="https://github.com/benedhl/Dom_Js_PI2/blob/main/Funcionamento.gif">
