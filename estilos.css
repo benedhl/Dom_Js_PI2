@@ -91,6 +91,5 @@ button {
     border-top: 1px solid #cccccc;
     padding: 1em 0;
     /* Deixa este elemento invisivel */
-    /*visibility: hidden;
-    */
+    visibility: hidden;
 }
