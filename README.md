@@ -1,5 +1,5 @@
 # Dom_Js_PI2
-Interação JS HTML CSS
+Integration JS,CSS,HTML
 <H1> Trabalho Interação Javascript </H1>
 
 Com base no site disponibilizado na pasta “Interação Javascript”, implemente as seguintes
